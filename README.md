@@ -74,7 +74,7 @@
 <a href = "https://www.instagram.com/saichandrasekhar09/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-## ❤ Views and Followers
+## ❤ Views
 <br/>
 <br/>
         
