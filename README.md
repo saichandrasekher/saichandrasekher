@@ -74,5 +74,8 @@
 <a href = "https://www.instagram.com/saichandrasekhar09/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-![](https://komarev.com/ghpvc/?saichandrasekher)
-
+## ❤ Views and Followers
+<br/>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=saichandrasekher">
+</a>
