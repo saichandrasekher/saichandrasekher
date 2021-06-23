@@ -53,7 +53,7 @@
 
   <br/>
     <a href="https://github.com/saichandrasekher/github-readme-stats"><img alt="chandrasekhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saichandrasekher&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/saichandrasekher/github-readme-stats"><img alt="chandrasekher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandrasekher&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/saichandrasekher/github-readme-stats"><img alt="chandrasekher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandrasekher&layout=compact"/></a>
         
        **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)**
 
