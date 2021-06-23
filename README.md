@@ -4,19 +4,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chandra Sekhar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
+## 🙋‍♂️ About Me
 
+- 🔭 I’m currently working on Twitter API (Bot)
 
-<!--
-**saichandrasekher/saichandrasekher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning MERN Stack
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at My **[My Portfolio](https://saichandrasekher.github.io/portfolio-chandu/)**
+
+- 💬 Ask me about Anything
+
+- 😄 Pronouns: he/him 
+
+- ⚡ Fun fact: I'm a singer
+- 
